@@ -1,5 +1,12 @@
 # LangPlay
 
-Currently following: [https://docs.expo.dev/tutorial/create-your-first-app/](https://docs.expo.dev/tutorial/create-your-first-app/)
+Initial tutorial: [https://docs.expo.dev/tutorial/create-your-first-app/](https://docs.expo.dev/tutorial/create-your-first-app/)
 
-On step: [https://docs.expo.dev/tutorial/configuration/](https://docs.expo.dev/tutorial/configuration/)
+
+## Roadmap
+
+- [x] Complete expo tutorial
+- [ ] Create basic non-functional components
+- [ ] Add functionality:
+    - [ ] TODO 1
+    - [ ] TODO 2

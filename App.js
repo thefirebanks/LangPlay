@@ -101,7 +101,7 @@ export default function App() {
       <EmojiPicker isVisible={isEmojiPickerVisible} onClose={onEmojiPickerClose}>
         <EmojiList onSelect={setPickedEmoji} onCloseModal={onEmojiPickerClose} />
       </EmojiPicker>
-      <StatusBar style="auto" />
+      <StatusBar style="light" />
       </GestureHandlerRootView>
   );
 }
